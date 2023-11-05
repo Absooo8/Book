@@ -1,0 +1,216 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and text color for all pages */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style: #444;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: underline;
+    color: #fff;
+}
+
+
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* تنسيق الجدول */
+.team-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.team-table th, .team-table td {
+    padding: 10px;
+    text-align: center; /* توسيط النص داخل الخلايا */
+    border: 1px solid #000; /* إضافة حدود للخلايا */
+}
+
+.team-table td {
+    font-size: 18px;
+}
+
+
+.book-infone {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+.infone-title {
+    font-weight: bold;
+}
+
+
+.book-infone tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.book-infoto {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+
+.infoto-title {
+    font-weight: bold;
+}
+
+
+.book-infoto tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+
+
+
+
+
+
+
+.book-infothree {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+
+.infothree-title {
+    font-weight: bold;
+}
+
+
+.book-infothree tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+
+
+
+
+
+
+
+
+.book-infofour {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+
+.infofour-title {
+    font-weight: bold;
+}
+
+
+.book-infofour tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.book-infofife {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+
+.infofife-title {
+    font-weight: bold;
+}
+
+
+.book-infofife tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+
+
+
+
+
+
+.book-infosix {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+
+.infosix-title {
+    font-weight: bold;
+}
+
+
+.book-infosix tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
